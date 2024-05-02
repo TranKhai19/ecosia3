@@ -1,0 +1,3 @@
+[submodule "my-app"]
+	path = my-app
+	url = https://github.com/TranKhai19/ecosia3.git
